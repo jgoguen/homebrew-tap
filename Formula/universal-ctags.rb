@@ -1,9 +1,9 @@
 class UniversalCtags < Formula
   desc "Universal Ctags - a multi-language source code indexing tool"
   homepage "http://ctags.io"
-  url "https://github.com/universal-ctags/ctags/archive/3f0ea94c60552fc4983472f6e40e375357093364.tar.gz"
-  version "20200729-2009"
-  sha256 "39f9242d1426c6a7ae81b30ce355d5351e22746b0e34b2a1e19b859116bf8a32"
+  url "https://github.com/universal-ctags/ctags/archive/0ccd81f6e20ae7f0f0c3c2fe72a8656e9a9b042a.tar.gz"
+  version "20210213-2009"
+  sha256 "3bce8ad116799ebfc8a51a7b5e86d335bd55e6da4524142087de5fd90ea52ef0"
   license "GPL-2.0"
 
   depends_on "autoconf" => :build
